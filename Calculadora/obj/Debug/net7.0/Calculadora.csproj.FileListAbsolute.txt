@@ -1,0 +1,15 @@
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\bin\Debug\net7.0\Calculadora.exe
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\bin\Debug\net7.0\Calculadora.dll
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.csproj.AssemblyReference.cache
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.dll
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+C:\Users\alexandre.salvador\Desktop\testes unitarios\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
